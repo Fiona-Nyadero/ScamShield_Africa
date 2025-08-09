@@ -64,12 +64,12 @@ pip install -r requirements.txt
 ---
 ## 🤝 Contributing
 ### Collaborators  
- - [![Fiona's GitHub](https://img.shields.io/badge/Fiona%20Nyadero-GitHub-black?logo=github)](https://github.com/Fiona-Nyadero)  
- - [![Stephanie's GitHub](https://img.shields.io/badge/Stephanie%20Chepkirui-GitHub-black?logo=github)](https://github.com/Stephanie514)
+- [![Fiona's GitHub](https://img.shields.io/badge/Fiona%20Nyadero-GitHub-black?logo=github)](https://github.com/Fiona-Nyadero)  
+- [![Stephanie's GitHub](https://img.shields.io/badge/Stephanie-GitHub-black?logo=github)](https://github.com/Stephanie514)
 
 
 ### Contributors:
-[YourUserName]
+- # [NAME/USERNAME](https://github.com/{USERNAME})
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 Any contributions you make are greatly appreciated.
