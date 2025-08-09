@@ -1,4 +1,5 @@
-# 🛡️ ScamShield Africa: An AI-Powered Financial Crime Protector
+# 🛡️ ScamShield Africa
+> An AI-Powered Financial Crime Protector
 
 ## 📚 Table of Contents
 - [About the Project](#-about-the-project)
@@ -60,11 +61,15 @@ venv\Scripts\activate     # On Windows
 
 pip install -r requirements.txt
 ```
-
+---
 ## 🤝 Contributing
-### OG Collaborators
-[Fiona-Nyadero]
-[Stephanie514]
+### Collaborators  
+- [Fiona Nyadero](https://github.com/Fiona-Nyadero)  
+- [Stephanie Chepkirui](https://github.com/Stephanie514)  
+
+[![Fiona's GitHub](https://img.shields.io/badge/Fiona%20Nyadero-GitHub-black?logo=github)](https://github.com/Fiona-Nyadero)  
+[![Stephanie's GitHub](https://img.shields.io/badge/Stephanie-GitHub-black?logo=github)](https://github.com/Stephanie514)
+
 
 ### Contributors:
 [YourUserName]
@@ -94,5 +99,7 @@ git push origin feature/Sick_NewFeature
 
 **6. Add your name to the team of Contributors above.** Don't forget to add any relevant documentation here.
 
-©️ License
+---
+## ©️ License
+
 Distributed under the MIT License. See LICENSE for more information.
