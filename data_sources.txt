@@ -1,0 +1,19 @@
+1. Safaricom (Official Alerts)
+URL: https://www.safaricom.co.ke/fraud-awareness
+What to Scrape: Look for articles, blog posts, and tips detailing specific scam tactics. This includes things like fake M-PESA messages, SIM swap fraud, fake reversals, and fraudulent calls. The site also provides official contact numbers and advice on how to report fraud.
+
+2. Communications Authority of Kenya (CAK)
+URL: https://www.ca.go.ke/ (Find relevant press releases and news from their site)
+What to Scrape: Search for news and press releases containing keywords like "scam alert," "fraud," "cybercrime," or "consumer warning." These alerts often detail new and emerging threats, such as "Wangiri" phone scams or fraudulent promotional messages.
+
+3. Central Bank of Kenya (CBK)
+URL: https://www.centralbank.go.ke/fraud-safety/
+What to Scrape: This section provides generic but useful information on different types of financial fraud, such as phishing emails, advance fee scams, and fraudulent investment schemes. This data will be useful for training your model to recognize general scam patterns.
+
+5. ABSA Bank
+URL: https://www.absabank.co.ke/security-centre-and-fraud-awareness/fraud-and-scam-tips/
+What to Scrape: Data on different types of scams
+
+4. Africa Check (Fact-Checking)
+URL: https://africacheck.org/fact-checks/
+What to Scrape: Use their search function with keywords like "Kenya" and "scam" to find articles that analyze and verify viral scam messages. This will provide you with real-world examples of scam messages and the detailed explanations needed to train your AI model effectively.S
