@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 
 ### Contributors:
-- # [NAME/USERNAME](https://github.com/{USERNAME})
+- [NAME/USERNAME](https://github.com/{USERNAME})
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 Any contributions you make are greatly appreciated.
